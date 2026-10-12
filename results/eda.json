@@ -1,0 +1,210 @@
+{
+  "n_papers": 797,
+  "date_min": "2021-02-09",
+  "date_max": "2026-10-08",
+  "abs_words_mean": 163.08030112923464,
+  "abs_words_median": 161.0,
+  "title_words_mean": 10.484316185696361,
+  "authors_mean": 5.5357590966122965,
+  "by_year": {
+    "2021": 2,
+    "2023": 16,
+    "2024": 205,
+    "2025": 359,
+    "2026": 215
+  },
+  "top_categories": {
+    "cs.CL": 383,
+    "cs.IR": 157,
+    "cs.AI": 77,
+    "cs.CR": 41,
+    "cs.LG": 39,
+    "cs.CV": 34,
+    "cs.SE": 19,
+    "eess.AS": 7,
+    "cs.NI": 6,
+    "cs.DB": 5
+  },
+  "n_unique_authors": 3761,
+  "top_authors": [
+    [
+      "Dawei Yin",
+      8
+    ],
+    [
+      "Zhicheng Dou",
+      8
+    ],
+    [
+      "Zhenghao Liu",
+      7
+    ],
+    [
+      "Shuaiqiang Wang",
+      6
+    ],
+    [
+      "Yukun Yan",
+      6
+    ],
+    [
+      "Maosong Sun",
+      6
+    ],
+    [
+      "Dan Yang",
+      5
+    ],
+    [
+      "Jiliang Tang",
+      5
+    ],
+    [
+      "Wei Wang",
+      5
+    ],
+    [
+      "Guanting Dong",
+      5
+    ],
+    [
+      "Jianxin Li",
+      5
+    ],
+    [
+      "Philip S. Yu",
+      5
+    ],
+    [
+      "Nadezhda Chirkova",
+      5
+    ],
+    [
+      "Hao Chen",
+      5
+    ],
+    [
+      "Jiawei Han",
+      5
+    ]
+  ],
+  "zipf_raw": {
+    "slope": -0.9447902866308158,
+    "vocab": 7914,
+    "tokens": 138331
+  },
+  "zipf_content": {
+    "slope": -0.8838014098855732,
+    "vocab": 4590,
+    "tokens": 68050
+  },
+  "zipf_bigrams": {
+    "slope": -0.6628011815988393,
+    "vocab": 17545,
+    "tokens": 28892
+  },
+  "heaps_beta": 0.5430685335230745,
+  "heaps_K": 13.686055970524333,
+  "top_words": [
+    [
+      "retrieval",
+      2912
+    ],
+    [
+      "rag",
+      2538
+    ],
+    [
+      "generation",
+      2226
+    ],
+    [
+      "augmented",
+      1799
+    ],
+    [
+      "knowledge",
+      1084
+    ],
+    [
+      "models",
+      912
+    ],
+    [
+      "language",
+      845
+    ],
+    [
+      "llms",
+      784
+    ],
+    [
+      "context",
+      527
+    ],
+    [
+      "model",
+      489
+    ],
+    [
+      "information",
+      489
+    ],
+    [
+      "llm",
+      467
+    ],
+    [
+      "multi",
+      448
+    ],
+    [
+      "graph",
+      408
+    ],
+    [
+      "reasoning",
+      388
+    ],
+    [
+      "documents",
+      375
+    ],
+    [
+      "question",
+      373
+    ],
+    [
+      "retrieved",
+      338
+    ],
+    [
+      "accuracy",
+      327
+    ],
+    [
+      "external",
+      326
+    ],
+    [
+      "query",
+      314
+    ],
+    [
+      "evidence",
+      312
+    ],
+    [
+      "domain",
+      307
+    ],
+    [
+      "answering",
+      296
+    ],
+    [
+      "document",
+      268
+    ]
+  ]
+}

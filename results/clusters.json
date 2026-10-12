@@ -1,0 +1,427 @@
+[
+ {
+  "cluster": 0,
+  "size": 59,
+  "top_keywords": [
+   "poisoning attacks",
+   "natural language processing",
+   "attack success rate",
+   "text",
+   "detection",
+   "defense mechanism",
+   "zero shot",
+   "machine learning",
+   "attack surface",
+   "knowledge database"
+  ],
+  "internal_weight": 191
+ },
+ {
+  "cluster": 1,
+  "size": 57,
+  "top_keywords": [
+   "multihop question answering",
+   "document level",
+   "indexing",
+   "graph construction",
+   "hierarchical",
+   "query decomposition",
+   "single hop",
+   "latent",
+   "embedding",
+   "tree"
+  ],
+  "internal_weight": 148
+ },
+ {
+  "cluster": 2,
+  "size": 56,
+  "top_keywords": [
+   "multimodal",
+   "vision language models",
+   "textual",
+   "visual question answering",
+   "image",
+   "planning",
+   "mrag",
+   "mllms",
+   "financial",
+   "image captioning"
+  ],
+  "internal_weight": 180
+ },
+ {
+  "cluster": 3,
+  "size": 55,
+  "top_keywords": [
+   "knowledge graph",
+   "attacks",
+   "black box",
+   "adversarial",
+   "explainable",
+   "paths",
+   "counterfactual",
+   "perturbations",
+   "transparency",
+   "generated outputs"
+  ],
+  "internal_weight": 179
+ },
+ {
+  "cluster": 4,
+  "size": 53,
+  "top_keywords": [
+   "domain specific knowledge",
+   "gpt",
+   "open source models",
+   "selection",
+   "dialogue",
+   "correct answer",
+   "industry",
+   "fixed",
+   "development",
+   "turn"
+  ],
+  "internal_weight": 129
+ },
+ {
+  "cluster": 5,
+  "size": 46,
+  "top_keywords": [
+   "faithfulness",
+   "attribution",
+   "multiagent",
+   "automated",
+   "workflow",
+   "answer relevance",
+   "scientific",
+   "citation",
+   "trustworthy",
+   "grounding outputs"
+  ],
+  "internal_weight": 110
+ },
+ {
+  "cluster": 6,
+  "size": 43,
+  "top_keywords": [
+   "graph",
+   "parametric knowledge",
+   "external context",
+   "parameters",
+   "context length",
+   "hallucination detection",
+   "detecting hallucinations",
+   "knowledge injection",
+   "active",
+   "test"
+  ],
+  "internal_weight": 111
+ },
+ {
+  "cluster": 7,
+  "size": 43,
+  "top_keywords": [
+   "dynamic",
+   "memory",
+   "external knowledge bases",
+   "adaptive",
+   "cache",
+   "reducing latency",
+   "tree structured",
+   "inference",
+   "retrieved content",
+   "hybrid retrieval"
+  ],
+  "internal_weight": 102
+ },
+ {
+  "cluster": 8,
+  "size": 43,
+  "top_keywords": [
+   "federated",
+   "privacy risks",
+   "privacy preserving",
+   "security",
+   "private",
+   "edge devices",
+   "privacy",
+   "defense",
+   "distribution",
+   "encryption"
+  ],
+  "internal_weight": 131
+ },
+ {
+  "cluster": 9,
+  "size": 43,
+  "top_keywords": [
+   "agentic",
+   "recommendation",
+   "personalized",
+   "step",
+   "students",
+   "user",
+   "assistant",
+   "interactions",
+   "items",
+   "company"
+  ],
+  "internal_weight": 127
+ },
+ {
+  "cluster": 10,
+  "size": 35,
+  "top_keywords": [
+   "confidence",
+   "model internal",
+   "estimates",
+   "evidence",
+   "reasoning processes",
+   "reward",
+   "factual",
+   "retrieval precision",
+   "exact match",
+   "signals"
+  ],
+  "internal_weight": 80
+ },
+ {
+  "cluster": 11,
+  "size": 34,
+  "top_keywords": [
+   "fine tuning",
+   "artificial intelligence",
+   "multiple choice",
+   "visual",
+   "outdated knowledge",
+   "long form",
+   "vast",
+   "date information",
+   "perception",
+   "medical knowledge"
+  ],
+  "internal_weight": 77
+ },
+ {
+  "cluster": 12,
+  "size": 32,
+  "top_keywords": [
+   "retrieved documents",
+   "pre trained",
+   "irrelevant information",
+   "iteratively refines",
+   "computational overhead",
+   "context compression",
+   "compression",
+   "spanning",
+   "final answer",
+   "generated content"
+  ],
+  "internal_weight": 63
+ },
+ {
+  "cluster": 13,
+  "size": 32,
+  "top_keywords": [
+   "reasoning paths",
+   "response generation",
+   "page",
+   "carlo tree search",
+   "document understanding",
+   "mcts",
+   "monte carlo tree",
+   "self",
+   "visual documents",
+   "visual tokens"
+  ],
+  "internal_weight": 84
+ },
+ {
+  "cluster": 14,
+  "size": 32,
+  "top_keywords": [
+   "chunking strategies",
+   "semantic chunking",
+   "fixed size",
+   "embedding models",
+   "cluster",
+   "recursive",
+   "retrieved passages",
+   "aware chunking",
+   "long document",
+   "academic"
+  ],
+  "internal_weight": 82
+ },
+ {
+  "cluster": 15,
+  "size": 27,
+  "top_keywords": [
+   "open domain question",
+   "domain question answering",
+   "interpretable",
+   "long context",
+   "calibration",
+   "context retrieval",
+   "optimization",
+   "utility",
+   "human annotations",
+   "model families"
+  ],
+  "internal_weight": 81
+ },
+ {
+  "cluster": 16,
+  "size": 27,
+  "top_keywords": [
+   "graph structures",
+   "survey",
+   "graphrag",
+   "complex queries",
+   "graph neural networks",
+   "relational knowledge",
+   "questions requiring",
+   "graph enhanced",
+   "retrieval efficiency",
+   "research directions"
+  ],
+  "internal_weight": 73
+ },
+ {
+  "cluster": 17,
+  "size": 27,
+  "top_keywords": [
+   "ranking",
+   "reranking",
+   "intensive question answering",
+   "knowledge intensive question",
+   "vector database",
+   "computational efficiency",
+   "retrieval noise",
+   "domain adaptation",
+   "noisy retrieval",
+   "percent"
+  ],
+  "internal_weight": 61
+ },
+ {
+  "cluster": 18,
+  "size": 22,
+  "top_keywords": [
+   "adaptive retrieval",
+   "hallucination issues",
+   "control",
+   "internal knowledge",
+   "centric",
+   "context understanding",
+   "llm internal",
+   "better understand",
+   "arag",
+   "relationships"
+  ],
+  "internal_weight": 47
+ },
+ {
+  "cluster": 19,
+  "size": 22,
+  "top_keywords": [
+   "clinical",
+   "medical",
+   "ehrs",
+   "electronic health records",
+   "disease",
+   "diagnostic",
+   "clinical decision making",
+   "finance",
+   "chatbots",
+   "healthcare"
+  ],
+  "internal_weight": 58
+ },
+ {
+  "cluster": 20,
+  "size": 20,
+  "top_keywords": [
+   "retrieval models",
+   "enterprise",
+   "architecture",
+   "reference",
+   "contextual information",
+   "sequence",
+   "series",
+   "ratio",
+   "count",
+   "retrieval step"
+  ],
+  "internal_weight": 42
+ },
+ {
+  "cluster": 21,
+  "size": 18,
+  "top_keywords": [
+   "external knowledge sources",
+   "accurate answers",
+   "llm reasoning",
+   "passages",
+   "contextual",
+   "generate accurate",
+   "cybersecurity",
+   "pseudo",
+   "retrieval module",
+   "cognitive"
+  ],
+  "internal_weight": 38
+ },
+ {
+  "cluster": 22,
+  "size": 17,
+  "top_keywords": [
+   "entity",
+   "event",
+   "hyperedges",
+   "incremental updates",
+   "ary relations",
+   "global knowledge",
+   "musique",
+   "evidence chaining",
+   "retrieval architecture",
+   "chunking"
+  ],
+  "internal_weight": 150
+ },
+ {
+  "cluster": 23,
+  "size": 16,
+  "top_keywords": [
+   "automatic speech recognition",
+   "low resource languages",
+   "asr",
+   "speaker",
+   "audio",
+   "speech",
+   "error correction",
+   "wer",
+   "transcription",
+   "frequency"
+  ],
+  "internal_weight": 67
+ },
+ {
+  "cluster": 24,
+  "size": 15,
+  "top_keywords": [
+   "multilingual",
+   "cross lingual",
+   "english",
+   "reinforcement learning",
+   "knowledge conflicts",
+   "translation",
+   "policy optimization",
+   "bilingual",
+   "semantic representations",
+   "collection"
+  ],
+  "internal_weight": 42
+ }
+]

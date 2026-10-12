@@ -1,0 +1,86 @@
+=== ПОИСК ПОХОЖИХ ПУБЛИКАЦИЙ ===
+
+ИСХОДНАЯ: SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyperedges
+  ключевые слова: ['event', 'sql', 'hyperedges', 'musique', 'constructing knowledge graphs', 'entity', 'chunking', 'retrieval architecture', 'global knowledge', 'evidence chaining', 'ary relations', 'incremental updates']
+  [12] SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyperedges
+        общие: ['ary relations', 'chunking', 'constructing knowledge graphs', 'entity', 'event', 'evidence chaining', 'global knowledge', 'hyperedges', 'incremental updates', 'musique', 'retrieval architecture', 'sql'] (прямая связь)
+  [2] HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation
+        общие: ['ary relations', 'hyperedges'] (прямая связь)
+  [2] TagRAG: Tag-guided Hierarchical Knowledge Graph Retrieval-Augmented Generation
+        общие: ['global knowledge', 'incremental updates'] (прямая связь)
+  [2] HyCE-RAG: Hypergraph Chain-of-Evidence Retrieval-Augmented Generation for Explainable Multi-hop Question Answering
+        общие: ['entity', 'hyperedges'] (прямая связь)
+  [2] Respecting Temporal-Causal Consistency: Entity-Event Knowledge Graphs for Retrieval-Augmented Generation
+        общие: ['entity', 'event'] (прямая связь)
+
+ИСХОДНАЯ: MMRAG-RFT: Two-stage Reinforcement Fine-tuning for Explainable Multi-modal Retrieval-augmented Generation
+  ключевые слова: ['explainable', 'fine tuning', 'logical', 'jointly optimize', 'coarse grained', 'multimodal knowledge', 'multimodal document', 'ranking', 'reasoning capabilities', 'response generation', 'credibility', 'reinforcement learning']
+  [2] Source-Aware Reranking for Retrieval-Augmented Generation: A Reliability Prior Approach
+        общие: ['credibility', 'ranking'] (прямая связь)
+  [2] VideoRAG: Retrieval-Augmented Generation over Video Corpus
+        общие: ['multimodal knowledge', 'response generation'] (прямая связь)
+  [2] OptiSet: Unified Optimizing Set Selection and Ranking for Retrieval-Augmented Generation
+        общие: ['jointly optimize', 'ranking'] (прямая связь)
+  [2] Enhancing Document-Level Question Answering via Multi-Hop Retrieval-Augmented Generation with LLaMA 3
+        общие: ['jointly optimize', 'response generation'] (прямая связь)
+  [2] Benchmarking Retrieval-Augmented Generation in Multi-Modal Contexts
+        общие: ['multimodal document', 'response generation'] (прямая связь)
+
+ИСХОДНАЯ: DH-RAG: A Dynamic Historical Context-Powered Retrieval-Augmented Generation Method for Multi-Turn Dialogue
+  ключевые слова: ['historical context', 'dialogue', 'multiturn', 'history', 'dynamic', 'reconstruction', 'module', 'conversational', 'static knowledge', 'human cognition', 'ongoing', 'immediate']
+  [2] ComRAG: Retrieval-Augmented Generation with Dynamic Vector Stores for Real-time Community Question Answering in Industry
+        общие: ['dynamic', 'static knowledge'] (прямая связь)
+  [2] Retrieval Augmented Generation for Dynamic Graph Modeling
+        общие: ['dynamic', 'historical context'] (прямая связь)
+  [2] CORAL: Benchmarking Multi-turn Conversational Retrieval-Augmentation Generation
+        общие: ['conversational', 'multiturn'] (прямая связь)
+  [2] MTRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems
+        общие: ['conversational', 'multiturn'] (прямая связь)
+  [2] Conversation AI Dialog for Medicare powered by Finetuning and Retrieval Augmented Generation
+        общие: ['conversational', 'dialogue'] (прямая связь)
+
+=== ПОИСК ПО ЗАПРОСУ ===
+
+ЗАПРОС: «knowledge graph question answering»  (совпавших ключевых слов графа: 92)
+  1.000 [прямое] NGM-RAG: Neural Graph Matching based Retrieval-Augmented Generation
+  0.892 [прямое] KERAG: Knowledge-Enhanced Retrieval-Augmented Generation for Advanced Question Answering
+  0.593 [прямое] Efficient Retrieval-Augmented Generation via Token Co-occurrence Graphs
+  0.578 [прямое] Research on Graph-Retrieval Augmented Generation Based on Historical Text Knowledge Graphs
+  0.534 [прямое] TruthfulRAG: Resolving Factual-level Conflicts in Retrieval-Augmented Generation with Knowledge Graphs
+
+ЗАПРОС: «multimodal retrieval images»  (совпавших ключевых слов графа: 17)
+  1.000 [прямое] A Survey of Multimodal Retrieval-Augmented Generation
+  0.880 [прямое] Reducing Hallucinations of Medical Multimodal Large Language Models with Visual Retrieval-Augmented Generation
+  0.810 [прямое] Benchmarking Retrieval-Augmented Generation in Multi-Modal Contexts
+  0.796 [прямое] Enhancing Image Quality Assessment Ability of LMMs via Retrieval-Augmented Generation
+  0.746 [прямое] Visual-RAG: Benchmarking Text-to-Image Retrieval Augmented Generation for Visual Knowledge Intensive Queries
+
+ЗАПРОС: «poisoning attacks defense»  (совпавших ключевых слов графа: 12)
+  1.000 [прямое] One Shot Dominance: Knowledge Poisoning Attack on Retrieval-Augmented Generation Systems
+  0.962 [прямое] BiRD: A Bidirectional Ranking Defense Mechanism for Retrieval Augmented Generation
+  0.957 [прямое] Joint-GCG: Unified Gradient-Based Poisoning Attacks on Retrieval-Augmented Generation Systems
+  0.881 [прямое] Retrieved But Not Reliable: A Survey on Attacks, and Defenses in Retrieval-Augmented Generation
+  0.867 [прямое] Hidden in the Metadata: Stealth Poisoning Attacks on Multimodal Retrieval-Augmented Generation
+
+ЗАПРОС: «hallucination detection»  (совпавших ключевых слов графа: 10)
+  1.000 [прямое] ReDeEP: Detecting Hallucination in Retrieval-Augmented Generation via Mechanistic Interpretability
+  0.760 [прямое] InterpDetect: Interpretable Signals for Detecting Hallucinations in Retrieval-Augmented Generation
+  0.747 [прямое] Detecting Hallucinations in Retrieval-Augmented Generation via Semantic-level Internal Reasoning Graph
+  0.549 [прямое] LRP4RAG: Detecting Hallucinations in Retrieval-Augmented Generation via Layer-wise Relevance Propagation
+  0.547 [прямое] Bi'an: A Bilingual Benchmark and Model for Hallucination Detection in Retrieval-Augmented Generation
+
+ЗАПРОС: «medical clinical decision support»  (совпавших ключевых слов графа: 14)
+  1.000 [прямое] MedBioLM: Optimizing Medical and Biological QA with Fine-Tuned Large Language Models and Retrieval-Augmented Generation
+  0.730 [прямое] RAG-X: Systematic Diagnosis of Retrieval-Augmented Generation for Medical Question Answering
+  0.568 [прямое] EEG-MedRAG: Enhancing EEG-based Clinical Decision-Making via Hierarchical Hypergraph Retrieval-Augmented Generation
+  0.558 [прямое] C-MIG: Multi-view Information Gain-based Retrieval-Augmented Generation for Clinical Diagnosis Reasoning
+  0.553 [прямое] Retrieval-Augmented Generation Based Nurse Observation Extraction
+
+ЗАПРОС: «recommendation personalized users»  (совпавших ключевых слов графа: 11)
+  1.000 [прямое] ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation
+  0.851 [прямое] Crafting Personalized Agents through Retrieval-Augmented Generation on Editable Memory Graphs
+  0.849 [прямое] PersonaRAG: Enhancing Retrieval-Augmented Generation Systems with User-Centric Agents
+  0.829 [прямое] ClusterRAG: Cluster-Based Collaborative Filtering for Personalized Retrieval-Augmented Generation
+  0.813 [прямое] Federated Recommendation via Hybrid Retrieval Augmented Generation
+
+ЗАПРОС: «рекомендательные системы» — нет совпадений (словарь корпуса англоязычный)

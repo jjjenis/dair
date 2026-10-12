@@ -1,0 +1,56 @@
+{'full_graph': {'nodes': 1698, 'edges': 42682, 'louvain_modularity': 0.21043096986921345}, 'nodes': 1028, 'edges': 1436, 'components': 62, 'largest_component_nodes': 874, 'largest_component_edges': 1336, 'density': 0.003501956744543265, 'avg_clustering': 0.16977543135935755, 'avg_degree': 3.05720823798627}
+{
+ "Louvain": {
+  "modularity": 0.8080249751541695,
+  "n_clusters": 23,
+  "coverage": 0.8488023952095808,
+  "largest_cluster": 57,
+  "n_clusters_ge5": 23
+ },
+ "Greedy modularity": {
+  "modularity": 0.7943650301124532,
+  "n_clusters": 26,
+  "coverage": 0.8495508982035929,
+  "largest_cluster": 97,
+  "n_clusters_ge5": 26
+ },
+ "Label propagation": {
+  "modularity": 0.6534704658533901,
+  "n_clusters": 203,
+  "coverage": 0.6482035928143712,
+  "largest_cluster": 25,
+  "n_clusters_ge5": 61
+ },
+ "null_model_modularity_mean": 0.6409230006976673
+}
+                             freq  degree  ...  pagerank  cluster
+keyword                                    ...                   
+knowledge graph                30   0.039  ...     0.012        1
+agentic                        26   0.033  ...     0.009        5
+multimodal                     23   0.033  ...     0.009        6
+entity                         17   0.023  ...     0.004       20
+graph                          21   0.022  ...     0.006        3
+natural language processing    23   0.021  ...     0.006        4
+faithfulness                   14   0.019  ...     0.006       11
+multihop question answering    19   0.019  ...     0.005        0
+domain specific knowledge      15   0.017  ...     0.005        9
+poisoning attacks              12   0.017  ...     0.005        4
+event                           7   0.016  ...     0.002       20
+attack success rate            11   0.016  ...     0.004        4
+recommendation                 13   0.015  ...     0.005        5
+attacks                        13   0.015  ...     0.004        1
+textual                        16   0.014  ...     0.004        6
+
+[15 rows x 8 columns]
+0 57 ['multihop question answering', 'document level', 'indexing', 'graph construction', 'hierarchical', 'visual', 'query decomposition', 'single hop', 'tree', 'perception']
+1 55 ['knowledge graph', 'attacks', 'black box', 'adversarial', 'paths', 'explainable', 'counterfactual', 'perturbations', 'transparency', 'generated outputs']
+2 54 ['dynamic', 'memory', 'external knowledge bases', 'adaptive', 'cache', 'industry', 'reducing latency', 'inference', 'computational overhead', 'test']
+3 53 ['graph', 'confidence', 'adaptive retrieval', 'model internal', 'hallucination issues', 'estimates', 'control', 'reasoning processes', 'evidence', 'reward']
+4 52 ['poisoning attacks', 'natural language processing', 'attack success rate', 'text', 'detection', 'fine tuning', 'artificial intelligence', 'defense mechanism', 'zero shot', 'multiple choice']
+5 52 ['agentic', 'recommendation', 'personalized', 'planning', 'students', 'outdated knowledge', 'user', 'interactions', 'tool', 'items']
+6 49 ['multimodal', 'vision language models', 'textual', 'visual question answering', 'image', 'mrag', 'financial', 'mllms', 'image captioning', 'cross modal']
+7 43 ['federated', 'privacy risks', 'privacy preserving', 'security', 'private', 'edge devices', 'defense', 'privacy', 'distribution', 'encryption']
+8 42 ['multilingual', 'automated', 'cross lingual', 'generation components', 'dynamic knowledge', 'intricate', 'metrics', 'english', 'external information', 'reinforcement learning']
+9 41 ['domain specific knowledge', 'gpt', 'open source models', 'selection', 'correct answer', 'dialogue', 'medical domain', 'turn', 'development', 'multiturn']
+10 38 ['chunking strategies', 'step', 'semantic chunking', 'fixed size', 'assistant', 'embedding models', 'company', 'recursive', 'cluster', 'retrieved passages']
+11 35 ['faithfulness', 'attribution', 'multiagent', 'workflow', 'answer relevance', 'scientific', 'trustworthy', 'citation', 'unfaithful', 'retrieved context']

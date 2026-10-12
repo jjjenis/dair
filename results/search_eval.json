@@ -1,0 +1,96 @@
+{
+  "queries": {
+    "knowledge graph": {
+      "relevant_in_corpus": 96,
+      "P@10_keywords_only": 1.0,
+      "P@10_graph_ppr": 1.0,
+      "P@10_tfidf_baseline": 1.0
+    },
+    "multimodal image video": {
+      "relevant_in_corpus": 117,
+      "P@10_keywords_only": 1.0,
+      "P@10_graph_ppr": 1.0,
+      "P@10_tfidf_baseline": 1.0
+    },
+    "privacy attacks poisoning": {
+      "relevant_in_corpus": 81,
+      "P@10_keywords_only": 1.0,
+      "P@10_graph_ppr": 1.0,
+      "P@10_tfidf_baseline": 1.0
+    },
+    "medical clinical": {
+      "relevant_in_corpus": 80,
+      "P@10_keywords_only": 1.0,
+      "P@10_graph_ppr": 1.0,
+      "P@10_tfidf_baseline": 1.0
+    },
+    "recommendation system": {
+      "relevant_in_corpus": 25,
+      "P@10_keywords_only": 1.0,
+      "P@10_graph_ppr": 1.0,
+      "P@10_tfidf_baseline": 1.0
+    },
+    "agentic agents": {
+      "relevant_in_corpus": 83,
+      "P@10_keywords_only": 1.0,
+      "P@10_graph_ppr": 1.0,
+      "P@10_tfidf_baseline": 1.0
+    },
+    "hallucination faithfulness": {
+      "relevant_in_corpus": 192,
+      "P@10_keywords_only": 1.0,
+      "P@10_graph_ppr": 1.0,
+      "P@10_tfidf_baseline": 1.0
+    },
+    "multi-hop question answering": {
+      "relevant_in_corpus": 75,
+      "P@10_keywords_only": 0.8,
+      "P@10_graph_ppr": 0.8,
+      "P@10_tfidf_baseline": 1.0
+    },
+    "code generation software": {
+      "relevant_in_corpus": 150,
+      "P@10_keywords_only": 0.9,
+      "P@10_graph_ppr": 0.9,
+      "P@10_tfidf_baseline": 1.0
+    },
+    "long context window": {
+      "relevant_in_corpus": 44,
+      "P@10_keywords_only": 0.9,
+      "P@10_graph_ppr": 0.9,
+      "P@10_tfidf_baseline": 1.0
+    }
+  },
+  "ablation_mean_P@10": {
+    "только ключевые слова": 0.96,
+    "PPR, вес=weight, alpha=0.2": 0.96,
+    "PPR, вес=weight, alpha=0.3": 0.96,
+    "PPR, вес=weight, alpha=0.5": 0.95,
+    "PPR, вес=weight, alpha=0.7": 0.9600000000000002,
+    "PPR, вес=idf_weight, alpha=0.2": 0.96,
+    "PPR, вес=idf_weight, alpha=0.3": 0.96,
+    "PPR, вес=idf_weight, alpha=0.5": 0.95,
+    "PPR, вес=idf_weight, alpha=0.7": 0.95
+  },
+  "mean_P@10": {
+    "keywords_only": 0.96,
+    "graph_ppr": 0.96,
+    "tfidf_baseline": 1.0
+  },
+  "similar_same_category_P@5": 0.37917189460476786,
+  "similar_random_baseline": 0.2858836213690788,
+  "similar_cosine": {
+    "graph_top5": 0.0862788021240569,
+    "tfidf_top5_upper_bound": 0.13032679325819677,
+    "random": 0.040087943959385156
+  },
+  "papers_with_neighbors": 797,
+  "graph": {
+    "nodes": 797,
+    "edges": 22264,
+    "isolated": 0,
+    "avg_degree": 55.869510664993726,
+    "max_weight": 12,
+    "components": 1
+  }
+}

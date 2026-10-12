@@ -1,0 +1,131 @@
+{
+  "unique_keywords": 2195,
+  "by_ngram_len": {
+    "2": 640,
+    "1": 1502,
+    "3": 53
+  },
+  "avg_per_paper": 11.992471769134253,
+  "top30": [
+    [
+      "knowledge graph",
+      30
+    ],
+    [
+      "agentic",
+      26
+    ],
+    [
+      "natural language processing",
+      23
+    ],
+    [
+      "multimodal",
+      23
+    ],
+    [
+      "graph",
+      21
+    ],
+    [
+      "multihop question answering",
+      19
+    ],
+    [
+      "external knowledge sources",
+      19
+    ],
+    [
+      "entity",
+      17
+    ],
+    [
+      "explainable",
+      16
+    ],
+    [
+      "fine tuning",
+      16
+    ],
+    [
+      "textual",
+      16
+    ],
+    [
+      "memory",
+      16
+    ],
+    [
+      "reranking",
+      16
+    ],
+    [
+      "external knowledge bases",
+      16
+    ],
+    [
+      "open domain question",
+      15
+    ],
+    [
+      "domain question answering",
+      15
+    ],
+    [
+      "text",
+      15
+    ],
+    [
+      "automated",
+      15
+    ],
+    [
+      "domain specific knowledge",
+      15
+    ],
+    [
+      "retrieved documents",
+      14
+    ],
+    [
+      "adaptive",
+      14
+    ],
+    [
+      "faithfulness",
+      14
+    ],
+    [
+      "detection",
+      14
+    ],
+    [
+      "vision language models",
+      14
+    ],
+    [
+      "retrieval models",
+      14
+    ],
+    [
+      "embedding models",
+      13
+    ],
+    [
+      "survey",
+      13
+    ],
+    [
+      "attribution",
+      13
+    ],
+    [
+      "recommendation",
+      13
+    ],
+    [
+      "graphrag",
+      13
+    ]
+  ]
+}
